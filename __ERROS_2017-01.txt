@@ -1,0 +1,41 @@
+-----------------------
+Jogo.java
+        	System.out.println("iniciarNovaPartida - notificarResultado(9)");
+        	janelaPrincipal.notificarResultado(19);
+-----------------------
+
+
+-----------------------
+Erro contagem moedas
+Tabuleiro.java
+    protected int pontos; //movimentos
+    protected int caras;  //caras sorteadas
+
+    public int getMoedas() {
+        return pontos; // pontos ja foi convertido baseado no sorteio de moedas o certo e retornar Caras
+    }
+
+
+Trocar getMoedas() por getCaras()
+tabuleiro.sortearMoedas();
+Remover metodo que soma pontos erradamente ... get Pontos acredito
+Resetar caras (-1) ja existe, mas falta resetar pontos (-1) Joga.java
+        Jogo: setJogadorAtual(jogada.getPscDaVez());
+        if(jogada.ehPassaVez()){
+        	tabuleiro.setCaras(-1);
+        	tabuleiro.setPontos(-1);
+        }
+
+Arrumar tambem TabuleiroPanel.informaPontuacaoMoedas()
+-----------------------
+
+(CORRIGIDO 08-04-17) - 02-04-2017 - CONECTAR - Mandar conectar novamente nao avisa do erro e d· como desconectado
+(CORRIGIDO 08-04-17) - 03-04-2017 - MOEDAS - exibindo as moedas erradas, onde eh cara, mostrando coroas e vice versa
+05-04-2017 - PASSAR A VEZ - Verificar na implantacao se esta no passo certo, teoricamente deveria ser apos atualizar tabuleiro
+02-05-2017 - Quando apenas um jogador no netgames, se iniciar partida, msg java diz que iniciou corretamente, mas msg servidor avisa q a partida n„o pode iniciar por falta de jogadores
+---
+mai 02, 2017 8:31:19 PM br.ufsc.inf.leobr.servidor.Jogo iniciarPartida
+INFORMA√iES: Jogo(135689557): A partida n“o pode ser iniciada porque n“o haviam jogadores suficientes.
+---
+13-05-2017 Tentar colocar Zoologico.png como background do tabuleiroPanel
+13-05-2017 Jogo.java - 186-190 -  if (modoOffline || jogadorAtual == jogadorLocal) { nao era chamado no switch-case ??? Verificar necessidade de estar aqui

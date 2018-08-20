@@ -1,0 +1,7 @@
+				menuSobre.addMouseListener(new MouseAdapter() {
+					public void mouseClicked(MouseEvent arg0) {
+						  	Sobre frame = new Sobre();  
+					        frame.setVisible(true);  
+					        frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
+					}
+				});
