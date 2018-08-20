@@ -1,5 +1,6 @@
 # nyout-java
-Jogo em Java : Ny-out : APS - UFSC
+Jogo em Java : Ny-out  
+Analise e Projetos de Sistemas (APS) - UFSC
 
 Como jogar:
 https://docs.google.com/document/d/1HgQvwThX791bMqyt5nSvZraNFdRH9hYfsb8Z9kSP8tU/pub#h.530839yhfc8j
