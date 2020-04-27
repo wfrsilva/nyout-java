@@ -26,3 +26,5 @@ Para isso devem seguir os  Caminhos para conseguirem atingir a saída do Zoológ
 # Regras do jogo:
 https://docs.google.com/document/d/1FrzKw1nuFr3cnlZEKF2EdZ4wsGhB1V9fajDce0BUa7Y/pub
 
+# Especificação de requisitos
+[https://drive.google.com/file/d/0BwEqvrpf-cBMTTFIM2VZYmR2Q1U/view](https://drive.google.com/file/d/0BwEqvrpf-cBMTTFIM2VZYmR2Q1U/view)
