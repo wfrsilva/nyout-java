@@ -19,8 +19,7 @@ Para isso devem seguir os  Caminhos para conseguirem atingir a saída do Zoológ
 - https://docs.google.com/document/d/1HgQvwThX791bMqyt5nSvZraNFdRH9hYfsb8Z9kSP8tU/pub#h.530839yhfc8j
 - https://www.youtube.com/watch?v=i42w2__lvrg
 ### Sentido do tabuleiro:
-<img src="https://lh3.googleusercontent.com/GNngQXr-D297-SWKmk0oComjCXjEpjsy1trpDjhNb8iaLN31t0jjoDs6oVxvzWzSlcpL-4LjwvmQnG2sh1HMyajys4L8azDIDe20nYvuuJz1CdV3u9xsbEYL2TlxkXsRsEASwOs" height="250"> <img src="https://lh3.googleusercontent.com/ZWa6QDBDCO-Buz9INsEpdT89pKCXFNBLKfTuxyhhNwYCyFNNXVY68bFETE1TUwIW4DIqyiNpCbXXSWQw1gdupvcEzjsHTOPnTX-cyYzgpPc33bUMkuKHcpxAzsA3EAb4cCdFKrU" height="250"> 
-<img src="https://lh3.googleusercontent.com/RvoLpNBZqAdAwCsLPpJ2wO9GmAgNPd1lyAA8bEdR3nOs9Gyit4NBhuv6lKNMeo1hvf1QbuLdks42rIcTQ26sf3asFN-Wf7YA68rFDdMlwZ8wx4S0GQ3n7mnnVw9ZwfqVRXGTCn4" height="250">
+<img src="https://lh3.googleusercontent.com/GNngQXr-D297-SWKmk0oComjCXjEpjsy1trpDjhNb8iaLN31t0jjoDs6oVxvzWzSlcpL-4LjwvmQnG2sh1HMyajys4L8azDIDe20nYvuuJz1CdV3u9xsbEYL2TlxkXsRsEASwOs" height="200"> <img src="https://lh3.googleusercontent.com/ZWa6QDBDCO-Buz9INsEpdT89pKCXFNBLKfTuxyhhNwYCyFNNXVY68bFETE1TUwIW4DIqyiNpCbXXSWQw1gdupvcEzjsHTOPnTX-cyYzgpPc33bUMkuKHcpxAzsA3EAb4cCdFKrU" height="200"> <img src="https://lh3.googleusercontent.com/RvoLpNBZqAdAwCsLPpJ2wO9GmAgNPd1lyAA8bEdR3nOs9Gyit4NBhuv6lKNMeo1hvf1QbuLdks42rIcTQ26sf3asFN-Wf7YA68rFDdMlwZ8wx4S0GQ3n7mnnVw9ZwfqVRXGTCn4" height="200">
 
 <img src=" " height="250">
 
